@@ -1,5 +1,5 @@
-# Simple-Bank-Database
-A simple school project made in python to simulate a database.
+# Bank-Database-Simulation
+A school project made in python to simulate a database.
 
 
 **Purpose**
